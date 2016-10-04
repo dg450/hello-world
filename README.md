@@ -2,5 +2,4 @@
 This is my first repository in github.
 I am writing about myself so that I can learn more about github.
 
-
-!!!!This is the line I am trying to add into the git cloud.!!!!
+Now i am adding a line on here from the gitwebsite and i am going to pull it to my computer
